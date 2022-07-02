@@ -1,0 +1,35 @@
+*{box-sizing: border-box;margin: 0;padding: 0;}
+.tasbeh{
+  width: 130px;
+  height: 150px;
+  background: dodgerblue;
+  border-radius: 20%;
+  position: absolute;
+  top: 10%;
+  left: 39%;
+  border: 1px solid black;
+}
+.ekran{
+  width: 55%;
+  height: 30px;
+  position: absolute;
+  top: 10%;left: 22%;
+  caret-color: transparent;
+}
+.tugma{
+  position: absolute;
+  top: 42%;
+  left: 35%;
+  width: 43px;
+  height: 43px;
+  border-radius: 50%;
+}
+.null{
+  position: absolute;
+  top: 73%;
+  left: 40%;
+  width: 29px;
+  height: 29px;
+  background: deepskyblue;
+  border-radius: 50%;
+}
